@@ -1,0 +1,8 @@
+
+We analyse US gun murder collected by the FBI
+
+download-data.R = dwonloads the csv file into data directory
+
+wrangle-data,R = creates  a derived dataset and saves as R object in rda directory
+
+analysis.R = generates a bar plot and saves to fig directory as an image
